@@ -1,8 +1,7 @@
 version: 1
 service:
   name: Invalid Service
-
-lifecycle: whatever
+  lifecycle: whatever
   tier: teir z
   product: abyz
   owner: urmum
